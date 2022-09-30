@@ -284,12 +284,11 @@
       zoom: 1,
       itemStyle: {
         normal: {
-          areaColor: "rgba(43, 196, 243, 0.42)",
-          borderColor: "rgba(43, 196, 243, 1)",
-          borderWidth: 1
+          areaColor: '#142957',
+          borderColor: '#0692a4'
         },
         emphasis: {
-          areaColor: "#2B91B7"
+          areaColor: '#0b1c2d'
         }
       }
     },
